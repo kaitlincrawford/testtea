@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <router-link to="/">Hosrggme</router-link> |
+    <router-link to="/">Hrrrrrrgme</router-link> |
     <router-link to="/about">Asegsgbout??</router-link>
   </nav>
   <router-view/>
